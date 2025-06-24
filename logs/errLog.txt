@@ -1,0 +1,31 @@
+23:06:2025	14:58:51	ad97cfe5-8b0e-447c-8ead-acaa36414b87	Error: ENOENT: no such file or directory, stat 'C:\Users\pgoma\OneDrive\Documents\demovit1\view\404.html'
+23:06:2025	18:19:14	a57e1d2c-9e93-4d93-bbf2-b7b7f6f0be2d	Error: ENOENT: no such file or directory, stat 'C:\Users\pgoma\OneDrive\Documents\demovit1\routes\nodejs_web_server-main\views\subdir\index.html'
+23:06:2025	18:22:53	c6cba1db-f147-431b-9f4d-79f19cd95a53	NotFoundError: Not Found
+23:06:2025	18:22:55	ba86a75d-38ec-420e-8379-e64f491af4a8	NotFoundError: Not Found
+23:06:2025	18:51:29	a54ea43b-c6e5-4390-bc0c-78890b745889	Error: ENOENT: no such file or directory, stat 'C:\Users\pgoma\OneDrive\Documents\demovit1\routes\views\new-page.html'
+23:06:2025	20:29:36	1e3b725f-d20f-47e6-b329-d284da5280c3	SyntaxError: Expected ',' or '}' after property value in JSON at position 30 (line 3 column 3)
+23:06:2025	20:55:47	ab06c510-e01c-41cc-a8fc-edc53e5edf3b	SyntaxError: Expected double-quoted property name in JSON at position 50 (line 5 column 1)
+24:06:2025	11:44:18	64c38e7d-b59c-4938-8783-35d92e68cb67	Error: secretOrPrivateKey must have a value
+24:06:2025	11:44:57	b28a4bcd-30b2-4f86-94cf-600154acc920	Error: secretOrPrivateKey must have a value
+24:06:2025	11:51:12	8e6966ff-4615-493a-9166-f5a475d94edd	Error: secretOrPrivateKey must have a value
+24:06:2025	11:52:12	e03152ea-9be5-4953-b204-94937c212cbb	Error: secretOrPrivateKey must have a value
+24:06:2025	11:53:45	730b97d5-dec8-473d-8fd5-ae6b9001fba5	Error: secretOrPrivateKey must have a value
+24:06:2025	11:54:50	f257a8e0-7333-4bb2-87e9-2f1a6453a08a	Error: secretOrPrivateKey must have a value
+24:06:2025	11:55:59	f7c9112b-f6ae-442b-ae33-55755b348452	Error: secretOrPrivateKey must have a value
+24:06:2025	12:04:00	571d8d0a-37e4-4495-9d79-89b467fde532	Error: secretOrPrivateKey must have a value
+24:06:2025	12:17:43	60e31275-c5d8-4509-a121-4a53a31a289d	Error: secretOrPrivateKey must have a value
+24:06:2025	12:23:35	2da39717-ecfe-44ad-b163-39325d22660c	Error: secretOrPrivateKey must have a value
+24:06:2025	12:26:52	fd84a042-a5db-4fa9-87b3-2b03980a1445	Error: secretOrPrivateKey must have a value
+24:06:2025	12:29:18	fb369912-53eb-43cc-a70e-796ee7c03d26	Error: secretOrPrivateKey must have a value
+24:06:2025	12:39:27	7a001d03-ba99-485d-91bc-c8db0ab83278	Error: secretOrPrivateKey must have a value
+24:06:2025	12:39:40	b374a425-a88b-4f9f-b3cd-b9797896e612	Error: secretOrPrivateKey must have a value
+24:06:2025	13:07:41	38de9d1c-bfd8-47b9-9ebd-e73c1bbdb88d	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	13:10:03	933f2bf1-357a-40a3-81a8-5e679014c3ca	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	13:10:22	347113c6-d4cb-453c-b25d-d91b47cf3cb3	ReferenceError: procces is not defined
+24:06:2025	13:11:10	0e7ac5c7-9d3f-4024-b4d2-2a7cd979c45b	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	13:11:24	246130dd-d5af-43d4-9919-b4f13dea1a22	ReferenceError: procces is not defined
+24:06:2025	13:19:41	a9fb2e8e-765a-44c9-bca5-07ded0b8728a	ReferenceError: proces is not defined
+24:06:2025	13:36:34	e70ecd8e-78fd-425d-899a-c26e91496423	TypeError: Cannot read properties of undefined (reading 'refreshToken')
+24:06:2025	13:38:20	53e6ef7b-cc87-4e3a-9ea2-ee57f3600643	TypeError: res.sendSatus is not a function
+24:06:2025	13:38:36	0fa32edc-09e9-4dc4-b0fa-efc004403df9	TypeError: res.sendSatus is not a function
+24:06:2025	13:42:55	369d56ce-3c16-41f0-ac09-96afbf4c2778	TypeError: Cannot read properties of undefined (reading 'refreshToken')
